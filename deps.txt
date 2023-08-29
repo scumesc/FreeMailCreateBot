@@ -9,7 +9,6 @@ certifi==2023.7.22
 gunicorn==21.2.0
 idna==3.4
 magic-filter==1.0.11
-multidict==6.0.4s
 packaging==23.1
 pytz==2023.3
 requests==2.31.0
